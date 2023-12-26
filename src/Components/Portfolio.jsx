@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/poster.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "digital aesthetic night background";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AmazClone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AmazClone is a remarkable CSS project that replicates the user interface of the renowned Amazon website. Offering a personalized online shopping experience, AmazClone mirrors Amazon's layout, aesthetics, and responsiveness, allowing users to browse, search, and explore a vast array of products seamlessly. With carefully crafted CSS styles, this project showcases the developer's skills in front-end web development. From its intuitive navigation to interactive elements, AmazClone aims to provide users with a familiar and enjoyable shopping journey, making it an excellent demonstration of CSS proficiency and attention to detail.",
+    url: "https://github.com/Aaradhya13/AmazClone",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tic-Tac-Toe",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Experience the classic game of Tic-Tac-Toe through this interactive JavaScript mini project! In this web-based game, players take turns clicking on the grid's boxes to place their symbol—either X or O.",
+    url: "https://github.com/Aaradhya13/tic-tac-toe",
   },
   {
-    title: "My Resume Site",
+    title: "My 1st audition in college",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A youtube shorts of me auditioning for getting into the dance club of our college for the 1st time",
+    url: "https://youtube.com/shorts/3lBsMVnk_Wo?si=1E4q4P6zUHmqupt_",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Happiness of going Home!",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A shorts to capture life's little enjoyable moments",
+    url: "https://youtube.com/shorts/Hl1297B1f_0?si=N7C7qI3TxGcBK-2l",
   },
 ];
 
