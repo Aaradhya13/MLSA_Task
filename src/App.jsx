@@ -27,7 +27,7 @@ const siteProps = {
   name: "Aaradhya Saikia",
   title: "Web Developer",
   email: "Aaradhya.Saikia@studentambassadors.com",
-  gitHub: "https://github.com/Aaradhya13",
+  gitHub: "Aaradhya13",
   instagram: "https://www.instagram.com/aaradhya_saikia?igsh=ZWdlZ3BjaDFibQ==",
   linkedIn: "https://www.linkedin.com/in/aaradhya-saikia84/",
   medium: "",
