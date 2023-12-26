@@ -28,11 +28,11 @@ const siteProps = {
   title: "Web Developer",
   email: "Aaradhya.Saikia@studentambassadors.com",
   gitHub: "Aaradhya13",
-  instagram: "https://www.instagram.com/aaradhya_saikia?igsh=ZWdlZ3BjaDFibQ==",
-  linkedIn: "https://www.linkedin.com/in/aaradhya-saikia84/",
+  instagram: "aaradhya_saikia?igsh=ZWdlZ3BjaDFibQ==",
+  linkedIn: "aaradhya-saikia84/",
   medium: "",
   twitter: "",
-  youTube: "https://www.youtube.com/@_aaradhya.saikia_",
+  youTube: "@_aaradhya.saikia_",
 };
 
 const primaryColor = "#4E567E";
